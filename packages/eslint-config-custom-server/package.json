@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-custom-server",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "eslint-formatter-pretty": "5.0.0",
+    "eslint-plugin-simple-import-sort": "10.0.0"
+  }
+}
